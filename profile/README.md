@@ -5,9 +5,10 @@
         - **CSL: A Large-scale Chinese Scientific Literature Dataset (COLING 2022)** [[paper](https://aclanthology.org/2022.coling-1.344/)][[code](https://github.com/ydli-ai/CSL)]
         - **TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities (ACL 2023)** [[paper](https://arxiv.org/abs/2212.06385)][[code](https://github.com/Tencent/TencentPretrain)]
         - **Dynamic data sampler for cross-language transfer learning in large language models (ICASSP 2024)**[[paper](https://arxiv.org/pdf/2405.10626)][[code](https://github.com/CVI-SZU/Linly)]
-      - 人脸图文匹配基础模型
+      - 人脸多模态大模型
          - **FLIP-80M: 80 Million Visual-Linguistic Pairs for Facial Language-Image Pre-Training (ACM MM 2024)** [[paper]()][[code](https://huggingface.co/datasets/FLIP-dataset/FLIP-80M)]
          - **Talk2Face: A Unified Sequence-based Framework for Diverse Face Generation and Analysis Tasks (ACM MM 2022)** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548205)][[code](https://github.com/ydli-ai/Talk2Face)]
+         - **FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs (CVPR 2025)**
       - 人体动作分析与编辑多模态大模型
          - **FineMotion: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing** [[code](https://github.com/CVI-SZU/FineMotion)]
          - **MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities (CVPR 2025)**
