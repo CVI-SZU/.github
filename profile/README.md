@@ -11,7 +11,7 @@
          - **FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs (CVPR 2025)**
       - 人体动作分析与编辑多模态大模型
          - **FineMotion: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing** [[code](https://github.com/CVI-SZU/FineMotion)]
-         - **MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities (CVPR 2025)**
+         - **MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities (CVPR 2025)** [[paper](https://arxiv.org/abs/2504.02478)][[code](https://github.com/CVI-SZU/MG-MotionLLM)]
       - 腹部多器官分割多模态大模型
 
    2. 通用深度学习理论
