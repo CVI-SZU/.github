@@ -30,7 +30,7 @@
       - 通过特征的对抗攻击提升针对开放场景的有效性，并将噪声隐藏在高频区域提升不可察觉性
         - **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Luo.pdf)] [[code](https://github.com/LinQinLiang/SSAH-adversarial-attack)]
       - 不等长时间序列分类基准测试框架，并提出了一个处理不等长时间序列的频谱池化层
-        - **Variable-length Time Series Classification: Benchmarking, Analysis and Effective Spectral Pooling Strategy (Information Fusion 2025)** 
+        - **Variable-length Time Series Classification: Benchmarking, Analysis and Effective Spectral Pooling Strategy (Information Fusion 2025)** [[code](https://github.com/CVI-SZU/VTS_benchmark)]
          
 
 
