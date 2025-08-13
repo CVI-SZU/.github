@@ -28,7 +28,10 @@
         - **Group-wise Inhibition based Feature Regularization for Robust Classification (ICCV 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/ICCV2021.pdf)] [[project](https://csse.szu.edu.cn/pages/research/details?id=10)] [[code](https://github.com/LinusWu/TENET_Training)] 
         - **Group-Wise Dynamic Dropout Based on Latent Semantic Variation (AAAI 2020)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/AAAI2020.pdf)] [[project](https://csse.szu.edu.cn/pages/research/details?id=35)]
       - 通过特征的对抗攻击提升针对开放场景的有效性，并将噪声隐藏在高频区域提升不可察觉性
-        - **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Luo.pdf)] [[code](https://github.com/LinQinLiang/SSAH-adversarial-attack)] 
+        - **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Luo.pdf)] [[code](https://github.com/LinQinLiang/SSAH-adversarial-attack)]
+      - 不等长时间序列分类基准测试框架，并提出了一个处理不等长时间序列的频谱池化层
+        - **Variable-length Time Series Classification: Benchmarking, Analysis and Effective Spectral Pooling Strategy (Information Fusion 2025)** 
+         
 
 
   3. 弱监督物体检测/语义分割
