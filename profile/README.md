@@ -13,6 +13,7 @@
          - **FineMotion: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing (ICCV 2025)** [[paper](https://arxiv.org/pdf/2507.19850)][[code](https://github.com/CVI-SZU/FineMotion)]
          - **MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities (CVPR 2025)** [[paper](https://arxiv.org/abs/2504.02478)][[code](https://github.com/CVI-SZU/MG-MotionLLM)]
       - 病理图像诊断多模态大模型
+         - **EAGLE: Expert‑Guided Self‑Enhancement for Preference Alignment in Pathology Large Vision‑Language Models (ACL 2025)** [[paper](https://aclanthology.org/2025.acl-long.711.pdf)][[code](https://github.com/CVI-SZU/EAGLE)]
          - **WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis (MICCAI 2025 Oral)** [[paper](https://arxiv.org/abs/2507.14680)][[code](https://github.com/CVI-SZU/WSI-Agents)]
       - 腹部多器官分割多模态大模型
 
