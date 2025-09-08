@@ -10,8 +10,10 @@
          - **Talk2Face: A Unified Sequence-based Framework for Diverse Face Generation and Analysis Tasks (ACM MM 2022)** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548205)][[code](https://github.com/ydli-ai/Talk2Face)]
          - **FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs (CVPR 2025)** [[paper](https://arxiv.org/pdf/2503.21457)][[code](https://github.com/CVI-SZU/FaceBench)]
       - 人体动作分析与编辑多模态大模型
-         - **FineMotion: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing** [[code](https://github.com/CVI-SZU/FineMotion)]
+         - **FineMotion: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing (ICCV 2025)** [[paper](https://arxiv.org/pdf/2507.19850)][[code](https://github.com/CVI-SZU/FineMotion)]
          - **MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities (CVPR 2025)** [[paper](https://arxiv.org/abs/2504.02478)][[code](https://github.com/CVI-SZU/MG-MotionLLM)]
+      - 病理图像诊断多模态大模型
+         - **WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis (MICCAI 2025 Oral)** [[paper](https://arxiv.org/abs/2507.14680)][[code](https://github.com/CVI-SZU/WSI-Agents)]
       - 腹部多器官分割多模态大模型
 
    2. 通用深度学习理论
