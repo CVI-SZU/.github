@@ -15,6 +15,10 @@
       - 病理图像诊断多模态大模型
          - **EAGLE: Expert‑Guided Self‑Enhancement for Preference Alignment in Pathology Large Vision‑Language Models (ACL 2025)** [[paper](https://aclanthology.org/2025.acl-long.711.pdf)][[code](https://github.com/CVI-SZU/EAGLE)]
          - **WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis (MICCAI 2025 Oral)** [[paper](https://arxiv.org/abs/2507.14680)][[code](https://github.com/CVI-SZU/WSI-Agents)]
+      - 手术视频时空推理大模型
+         - **SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark (CVPR 2026)** [[paper](https://arxiv.org/abs/2604.20319)][[code](https://github.com/CVI-SZU/SurgCoT)]
+      - 全模态眼科诊断大模型
+         - **X-PCR: A Benchmark for Cross-modality Progressive Clinical Reasoning in Ophthalmic Diagnosis (CVPR 2026)** [[paper](https://arxiv.org/abs/2604.20350)][[code](https://github.com/CVI-SZU/X-PCR)]
       - 腹部多器官分割多模态大模型
 
    2. 通用深度学习理论
