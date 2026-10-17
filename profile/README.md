@@ -98,6 +98,8 @@
        - **Sample hardness based gradient loss for long-tailed cervical cell detection (MICCAI 2022)** [[code](https://github.com/M-LLiu/Grad-Libra)]
        - **Deep Cross Residual Network for HEp2 Cell Staining Pattern Classification (Pattern Recognition 2018)** [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318301705)]
        - **HEp-2 Specimen Image Segmentation and Classification Using Very Deep Fully Convolutional Network (IEEE TMI 2017)** [[paper](https://ieeexplore.ieee.org/document/7862234/citations#citations)]
+     - 智能口腔
+       - **A Registration-Free and Slope-aware Framework for CBCT-based Dental Implant Planning (IEEE TMI 2026)** [[dataset]](https://github.com/CVI-SZU/ImplantFairy)
      - 肺部影像智能分析
        - **A Self-supervised Feature-standardization-block for Cross-domain Lung Disease Classification (Methods 2022)** [[paper](https://www.sciencedirect.com/science/article/pii/S104620232100133X)]
        - **Learning from Pseudo Lesion: A Self-supervised Framework for COVID-19 Diagnosis (Neural Computing and Applications 2022)** [[paper](https://arxiv.org/pdf/2106.12313.pdf)]
